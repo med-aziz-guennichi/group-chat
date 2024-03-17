@@ -69,6 +69,4 @@ int main()
 
   // Print the received message
   printf("Message received from server: %s\n", buffer);
-
-  return 0;
 }
